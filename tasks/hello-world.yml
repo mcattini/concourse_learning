@@ -20,4 +20,4 @@ jobs:
       - name: repo
       run: # read the file from the get step
         path: cat
-        args: ["repo/LICENSE"]
+        args: ["repo/README.md"]
